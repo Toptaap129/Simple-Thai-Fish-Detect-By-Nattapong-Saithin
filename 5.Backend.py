@@ -1,9 +1,3 @@
-# 5.Backend-V2(Pytorch).py
-# ============================================================================
-# 🥭 MANGO PEST DETECTION - INFERENCE API (FLASK + PYTORCH)
-# Production-Ready Inference Server
-# ============================================================================
-
 import os
 import sys
 import io
