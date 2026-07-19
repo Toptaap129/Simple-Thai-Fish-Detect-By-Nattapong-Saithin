@@ -24,7 +24,7 @@ pip install numpy matplotlib seaborn scikit-learn pillow pandas tqdm psutil flas
 
 
 #------------------------------------ Pytorch For RTX(2060,3060 or Newer)  ------------------------------------
-# ติดตั้งตัวหลัก (PyTorch + CUDA 11.8)
+# ติดตั้งตัวหลัก (PyTorch + CUDA )
 pip install torch torchvision torchaudio  --no-cache-dir
 
 # ติดตั้งเครื่องมือเสริมสำหรับการทำ Data Science และแสดงผล
