@@ -1,8 +1,3 @@
-# ============================================================================
-# 🥭 MANGO PEST DETECTION - CUDA ACCELERATED TRAINING PIPELINE (PyTorch)
-# ============================================================================
-# ✅ FIXED: Corrected Transform Order for RandomErasing
-# ============================================================================
 import os
 import sys
 import warnings
