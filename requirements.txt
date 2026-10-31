@@ -14,6 +14,9 @@ sudo apt install python3.10-venv
 #------------------------------------ Python 3.10 (.venv) ------------------------------------
 sudo apt update && sudo apt install -y python3.10-venv
 rm -rf .venv && python3.10 -m venv .venv && source .venv/bin/activate && pip install --upgrade pip 
+#------------------------------------ Python 3.1x (.venv) ------------------------------------
+sudo apt update && sudo apt install -y python3-venv
+rm -rf .venv && python3.10 -m venv .venv && source .venv/bin/activate && pip install --upgrade pip 
 
 
 #------------------------------------ Pytorch For GTX(1070,1080,ETC.) ------------------------------------
